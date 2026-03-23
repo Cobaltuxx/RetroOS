@@ -34,12 +34,11 @@ Runs smooth even on older machines or limited VMs.
 
 Sistema ultra ligero, ideal para revivir PCs antiguos.
 
-# Downloa ISO
+# Download ISO
 
 The ISO is too big for GitHub, so you can grab it directly from my Google Drive:
 [💾 > CLICK HERE TO DOWNLOAD ISO < 💾](https://drive.google.com/file/d/1b9-YCmgiSkrPYJUoNvDr8UvJt6LyopYD/view?usp=sharing)
 
 Built with passion by Cobaltuxx.
-W e l c o m e  back  to  the  g o l d e n  a g e !
-
+# $\color{blue}{\text{W e l c o m e  back  to  the  g o l d e n  a g e !}}$
 </div>
