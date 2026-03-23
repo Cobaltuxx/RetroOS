@@ -20,4 +20,4 @@ The ISO is too big for GitHub, so you can grab it directly from my Google Drive 
 
 Built with passion by Cobaltuxx. 
 
-# ***Welcome back to the golden age!***
+# $\color{blue}{\text{Welcome back to the golden age!}}$
