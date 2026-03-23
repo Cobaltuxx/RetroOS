@@ -1,5 +1,8 @@
+# What is RetroOS
+
 RetroOS is a personal project based on Debian 12 (Bookworm) created to bring back the magic of the early 2000s computing era. It’s not just a skin; it’s a lightweight, functional system built for nostalgia lovers and vintage gamers who want a stable modern base with a classic soul.
-🚀 Key Features / Características Clave:
+
+#  Key Features / Características Clave:
 
     Classic Desktop: Customized XFCE environment tuned for that authentic Y2K look & feel. / Escritorio XFCE personalizado con estética original de los 2000.
 
@@ -9,10 +12,12 @@ RetroOS is a personal project based on Debian 12 (Bookworm) created to bring bac
 
     Lightweight: Runs smooth even on older machines or limited VMs. / Sistema ultra ligero, ideal para revivir PCs antiguos.
 
-📥 Download / Descarga (ISO)
+# Download / Descarga (ISO)
 
 The ISO is too big for GitHub, so you can grab it directly from my Google Drive here:
 
 👉 [**Download ISO**](https://drive.google.com/file/d/1b9-YCmgiSkrPYJUoNvDr8UvJt6LyopYD/view?usp=sharing)
 
-Built with passion by Cobaltuxx. Welcome back to the golden age!
+Built with passion by Cobaltuxx. 
+
+# ***Welcome back to the golden age!***
