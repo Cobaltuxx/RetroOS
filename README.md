@@ -47,7 +47,7 @@ It's not just a skin; it's a **lightweight**, **functional system** built for no
 <br>
 ***Maximum stability and modern hardware support.***
 <br>
-***Runs smooth on older machines or limited VMs.***
+***Runs on limited VMs.***
 <br>
 
 ---
@@ -60,7 +60,7 @@ It's not just a skin; it's a **lightweight**, **functional system** built for no
 
 <div align="center">
 
-# >> [CLICK HERE TO DOWNLOAD RetroOS_v1.0](https://drive.google.com/file/d/1b9-YCmgiSkrPYJUoNvDr8UvJt6LyopYD/view?usp=sharing)
+# >> [CLICK HERE TO DOWNLOAD RetroOS_v1.0_x86_x64](https://drive.google.com/file/d/1b9-YCmgiSkrPYJUoNvDr8UvJt6LyopYD/view?usp=sharing)
 <br>
 
 # $\color{#33CCFF}{\text{W e l c o m e \ back \ to \ the \ g o l d e n \ a g e !}}$
